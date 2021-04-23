@@ -1,0 +1,109 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+    background-color: gainsboro;
+    height: 150px;
+
+}
+#content {
+    float: left;
+    width: 75%;
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+#sidebar {
+    float: left;
+    width: 25%;
+    padding-top: 100px;
+}
+
+h1 {
+    font-size: 5.5em;
+    color: #552583;
+    padding-top: 18px;
+    display: table;
+}
+
+#logo {
+    float: left;
+    padding: 1em;
+}
+
+#slides img {
+    display: none;
+}
+
+#firstItem, #secondItem, #thirdItem {
+    display: none;
+}
+
+li {
+    font-weight: bold;
+}
+
+#drone {
+    position: relative;
+}
+
+#house {
+    position: absolute;
+    padding-left: 855px;
+    display: none;
+}
+
+#postFlightMessage {
+    padding-left: 600px;
+    display: none;
+}
+
+#content-heading, #content-box {
+    padding: 5px;
+    text-align: center;
+    background-color: #552583;;
+    color: #FDB927;
+  }
+  
+  #content-box {
+    padding: 50px;
+    display: none;
+  }
+
+  #flash {
+      position: absolute;
+      height: 1000px;
+      padding-left: 200px;
+  }
+
+  #bolt {
+      display: none;
+      position: absolute;
+      margin: 0 auto;
+      padding-left: 100px;
+  }
+
+  #floatleft {
+      float: left;
+      width: 60%;
+  }
+
+  #sale-text {
+      position: absolute;
+      padding-left: 875px;
+      padding-top: 375px;
+  }
+
+  #spaces {
+      padding-top: 450px;
+  }
+
+  #spaces2 {
+      padding-top: 100px;
+  }
+
+  #spaces3 {
+      padding-top: 225px;
+  }
+
